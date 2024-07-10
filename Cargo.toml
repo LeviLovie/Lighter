@@ -1,0 +1,11 @@
+[package]
+name = "Lighter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.14.0"
+bevy_egui = "0.28.0"
+bevy_light_2d = "0.2.0"
+egui = "0.28.1"
+egui_file = "0.18.0"
